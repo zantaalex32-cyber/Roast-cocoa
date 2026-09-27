@@ -1,0 +1,6 @@
+{
+  "name": "Roast & Cocoa",
+  "description": "Modern premium coffee shop website featuring specialty roasts, single-origin cacao, artisanal brews, and slow moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
